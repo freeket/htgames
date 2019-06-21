@@ -9,3 +9,6 @@ GitHub读取资源文件
 例子：
 https://github.com/freeket/htgames/blob/master/config/config.json
 https://raw.githubusercontent.com/freeket/htgames/master/config/config.json
+
+https://github.com/freeket/htgames/blob/master/config/native_ad.png
+https://raw.githubusercontent.com/freeket/htgames/master/config/native_ad.png
