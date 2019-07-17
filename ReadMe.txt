@@ -1,4 +1,4 @@
-Version 1.0
+Version 2.0
 
 GitHub读取资源文件
 
