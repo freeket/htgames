@@ -1,5 +1,5 @@
-[["AppID_v1.0","Gp-on-off","MaketUrl-","PicFullUrl","IconUrl","nativeAdUrl"]
-,["Ads_Lock_0-4",1,1,1,1,1]
+[["AppID_v1_adslock1-5","Gp-on-off","MaketUrl-","PicFullUrl","IconUrl","nativeAdUrl"]
+,[1,1,1,1,1,1]
 ,["Full_Unit_appids",1002,1003,1004,0,0]
 ,["More_Unit_appids",1002,1003,1004,1005,0]
 ,[1001,1,"https://play.google.com/store/apps/details?id=com.snakevsblock.snakevsvirus","https://raw.githubusercontent.com/freeket/htgames/master/config/ad_full_1001.png","https://raw.githubusercontent.com/freeket/htgames/master/config/icon_1001.png","https://raw.githubusercontent.com/freeket/htgames/master/config/native_ad_1001.png"]
