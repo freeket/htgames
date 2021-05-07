@@ -8,3 +8,6 @@ https://play.google.com/apps/publish/
 
 Bubble Shooter
 https://play.google.com/store/apps/details?id=com.bubbleshooter.superharvest
+
+Bubble Tower
+https://play.google.com/store/apps/details?id=classic.bubble.shooter.game.bubbletower.legend
