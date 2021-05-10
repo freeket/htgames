@@ -1,3 +1,5 @@
 http://185.207.154.61/config/game_1001.apk
 http://185.207.154.61/config/game_1002.apk
 http://185.207.154.61/config/game_1003.apk
+
+http://hengtalk.com/games/gp_game_1001.html
